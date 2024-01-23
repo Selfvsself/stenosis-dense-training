@@ -1,0 +1,12 @@
+pandas
+tensorflow==2.10.1
+scipy
+tensorflow_datasets
+resource
+numpy
+image
+keras_cv
+scikit-learn
+scikit-image
+pydot
+Pillow~=9.3.0
